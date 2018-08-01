@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "anarzone",
   "license": "MIT",
+  "engines": {
+    "node": "10.0.0",
+  },
   "dependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
