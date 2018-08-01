@@ -5,7 +5,7 @@
   "author": "anarzone",
   "license": "MIT",
   "engines": {
-    "node": "10.0.0",
+    "node": "10.0.0"
   },
   "dependencies": {
     "babel-cli": "^6.26.0",
