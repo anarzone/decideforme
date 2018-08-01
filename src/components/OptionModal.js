@@ -1,4 +1,5 @@
-import Modal from 'react-modal'
+import React from 'react';
+import Modal from 'react-modal';
 
 const OptionModal =(props)=>(
     <div>

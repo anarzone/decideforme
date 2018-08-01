@@ -1,10 +1,10 @@
-import React, {Component} from 'react'
-import Modal from 'react-modal'
-import AddOption from './AddOption'
-import Options from './Options'
-import Header from './Header'
-import Action from './Action'
-import OptionModal from './OptionModal'
+import React, {Component} from 'react';
+import Modal from 'react-modal';
+import AddOption from './AddOption';
+import Options from './Options';
+import Header from './Header';
+import Action from './Action';
+import OptionModal from './OptionModal';
 
 export default class IndecisionApp extends Component{
     state = {
