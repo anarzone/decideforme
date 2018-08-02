@@ -4,5 +4,7 @@ node_modules/
 #ignore babelrc
 .babelrc
 
-#ignore bundle.js.map
-public/bundle.js.map
+#ignore 
+dist
+
+yarn.lock
