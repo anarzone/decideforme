@@ -1,5 +1,8 @@
 #ignore node modules
 node_modules/
-.babelrc
-public/bundle.js.map
 
+#ignore babelrc
+.babelrc
+
+#ignore bundle.js.map
+public/bundle.js.map
